@@ -1,4 +1,4 @@
-# DefHack-2021
+
 ## PROJECT NAME-Covidsol
 
 ### VISION
