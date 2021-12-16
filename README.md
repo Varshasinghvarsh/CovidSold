@@ -2,7 +2,7 @@
 ## PROJECT NAME-Covidsol
 
 ### VISION
-- The motto behind our project was to easily provide information related to Covid-19 pandemic whether it is daily upcoming cases or it can be general resources or seeking doctor's advice in one click.**
+- The motto behind my project was to easily provide information related to Covid-19 pandemic whether it is daily upcoming cases or it can be general resources or seeking doctor's advice in one click.**
 
 * Home page of site consist of Four panels:
  1. Stats
@@ -10,7 +10,7 @@
  3. Tweets
  4. Others
 
-* We will briefly explain what each panel works,
+* I will briefly explain what each panel works,
 ## 1. Stats
         In Stats page the user can see a graphical data of cases in their country from day-1 of covid-19 to till today.To give more clear scenario of covid-19 cases we have also depicted last 30 days cases using graph. They can see no. of confirmed cases, recovered cases and also no. of deaths.Below this we have shown recovery rate and a chart containing top affected countries.
         The user can easily compare the no. of cases in their country to any other countery or the world by just changing the country name which they can explore at the top left corner of this page.
